@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682382707 source:c:\users\matt\documents\c++ projects\diamond weight calculator\main.cpp
+	<iostream>
+	<string>
+
